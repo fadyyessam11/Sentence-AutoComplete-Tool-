@@ -1,0 +1,1 @@
+The objective of this code is to build and train a language model using a Long Short-Term Memory (LSTM) network to predict the next word in a given sequence of text. The model is trained on a dataset of text paragraphs, where it learns to predict the next word based on the preceding words in the sequence.
